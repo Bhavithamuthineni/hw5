@@ -28,7 +28,7 @@ My Bored App is a simple web application built with Vite, ReactJS, and the Bored
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Bhavithamuthineni/hw5.git](https://github.com/Bhavithamuthineni/hw5.git)
+   git clone https://github.com/Bhavithamuthineni/hw5.git
    ```
 
 2. Navigate to the project directory:
